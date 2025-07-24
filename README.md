@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🎓 M.Tech CSE student at **IIT Jammu**
 - 💡 Passionate about **Software Engineering**, **Machine Learning**, and **Open Source**
-- 💬 Comfortable with C++, Python, Linux, Git, and DevOps tools
+- 💬 Comfortable with C, C++, Python, Linux, Git, and DevOps tools
 - 🧠 Working on:
   - 🤖 Whisper + LLaMA3 pipeline for ASR
   - 🖼️ Hybrid image blending using classic CV
